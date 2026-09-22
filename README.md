@@ -1,1 +1,2 @@
-<img width="7894" height="1702" alt="VietGina" src="https://github.com/user-attachments/assets/01d73e55-484f-4821-9cc7-edd783f5204e" />
+<img width="7894" height="1702" alt="VietGina" src="https://raw.githubusercontent.com/apleGitHub/VietGina/refs/heads/main/readme-files/vietgina.png" />
+> yes i did make a logo for this! god forbid a girl has hobbies

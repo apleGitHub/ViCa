@@ -73,13 +73,22 @@ uses `vi` as its language code
 
 # \[ terms of use \]
 \- you **are allowed** to use this dataset for multispeaker training of **svs models**
+
 \- you **are allowed** to use this dataset for research purposes
+
 \- you **are allowed** to use this dataset for training commercial svs models
+
 \- you **are allowed** to use this dataset to train an svs model of this voice, but you **are not allowed** to release it
 
+---
+
 \- you **are not allowed** to use this dataset for multispeaker training if your dataset contains vocalists that **haven't given you permission** for ai training
+
 \- you **are not allowed** to run this dataset through any **svc technology** to morph it into other vocals
+
 \- you **are not allowed** to use this dataset to train an **svc model**
+
+---
 
 anything else that falls outside of the terms falls under the license 
 

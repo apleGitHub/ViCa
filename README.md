@@ -71,5 +71,10 @@ uses `vi` as its language code
 | ə   | A       | **ă**n, m**a**y, c**a**u | c**u**t                           |
 | a   | a       | b**a**, m**a**i, c**a**o | l**a**ugh, m**a**d                |
 
+# \[ credits \]
+aple: creator, voice provider, labeling
+
+alex floarea: name provider, labeling
+
 # \[ license \]
 ViCa © 2026 by aple is licensed under CC BY 4.0

@@ -71,10 +71,22 @@ uses `vi` as its language code
 | ə   | A       | **ă**n, m**a**y, c**a**u | c**u**t                           |
 | a   | a       | b**a**, m**a**i, c**a**o | l**a**ugh, m**a**d                |
 
-# \[ credits \]
-aple: creator, voice provider, labeling
+# \[ terms of use \]
+\- you **are allowed** to use this dataset for multispeaker training of **svs models**
+\- you **are allowed** to use this dataset for research purposes
+\- you **are allowed** to use this dataset for training commercial svs models
+\- you **are allowed** to use this dataset to train an svs model of this voice, but you **are not allowed** to release it
 
-alex floarea: name provider, labeling
+\- you **are not allowed** to use this dataset for multispeaker training if your dataset contains vocalists that **haven't given you permission** for ai training
+\- you **are not allowed** to run this dataset through any **svc technology** to morph it into other vocals
+\- you **are not allowed** to use this dataset to train an **svc model**
+
+anything else that falls outside of the terms falls under the license 
+
+# \[ credits \]
+**aple**: creator, voice provider, labeling
+
+**alex floarea**: name provider, labeling
 
 # \[ license \]
 ViCa © 2026 by aple is licensed under CC BY 4.0

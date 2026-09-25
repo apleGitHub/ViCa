@@ -1,4 +1,4 @@
-![Alt](https://raw.githubusercontent.com/apleGitHub/VietGina/refs/heads/main/readme-files/vietgina.png "VietGina Logo")
+![Alt](/readme-files/vica.png "ViCa Logo")
 ### a vietnamese corpus for diffsinger
 > yes i did make a logo. god forbid a girl has hobbies!
 ---

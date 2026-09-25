@@ -70,3 +70,6 @@ uses `vi` as its language code
 | ɔ   | o       | c**ó**, x**oo**ng        | **o**ff                           |
 | ə   | A       | **ă**n, m**a**y, c**a**u | c**u**t                           |
 | a   | a       | b**a**, m**a**i, c**a**o | l**a**ugh, m**a**d                |
+
+# \[ license \]
+ViCa © 2026 by aple is licensed under CC BY 4.0

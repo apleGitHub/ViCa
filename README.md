@@ -88,10 +88,6 @@ uses `vi` as its language code
 
 \- you **are not allowed** to use this dataset to train an **svc model**
 
----
-
-anything else that falls outside of the terms falls under the license 
-
 # \[ credits \]
 **aple**: creator, voice provider, labeling
 

@@ -1,4 +1,4 @@
-![Logo](/readme-files/vica.png "ViCa Logo")
+![Logo](/readme-files/vica-scaled.png "ViCa Logo")
 ### a vietnamese corpus for diffsinger
 > yes i did make a logo. god forbid a girl has hobbies!
 ---

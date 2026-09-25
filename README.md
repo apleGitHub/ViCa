@@ -81,6 +81,7 @@ uses `vi` as its language code
 \- you **are allowed** to use this dataset to train an svs model of this voice, but you **are not allowed** to release it
 
 ---
+\- you **are not allowed** to redistribute the raw files of this dataset
 
 \- you **are not allowed** to use this dataset for multispeaker training if your dataset contains vocalists that **haven't given you permission** for ai training
 

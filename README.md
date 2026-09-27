@@ -8,11 +8,11 @@
 first diffsinger dataset heyyyy! i decided to make a pretty scuffed corpus for vietnamese support! i mainly recorded this since reclists are lowkey the best way to cover every phoneme under the bus but anygays! this is extremely scuffed but i hope this can be of help!
 
 # \[ dataset info \]
-452 .wav files
+461 .wav files
 
-26 minutes and 11 seconds
+26 minutes and 42 seconds
 
-denoised and dereverbed
+denoised, dereverbed, and normalized
 
 recorded at 16 bit 44.1k hz mono
 

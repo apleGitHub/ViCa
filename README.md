@@ -83,7 +83,7 @@ uses `vi` as its language code
 | ɔ   | ao      | c**ó**, x**oo**ng                  | **o**ff                           |
 | ɯ   | eu      | t**ư**                             | glass**e**s, т**ы**               |
 | u   | u       | r**u**, t**u**i                    | r**u**le                          |
-| ə   | ax      | y**ê**u, ư**ớ**c, ư**a**, u**ô**ng | l**a**ugh, m**a**d                |
+| ə   | ax      | y**ê**u, ư**ớ**c, ư**a**, u**ô**ng | rime for ê, ớ, a, and ô           |
 
 # \[ terms of use \]
 \- you **are allowed** to use this dataset for multispeaker training of **svs models**

@@ -21,8 +21,6 @@ labeled in .lab format
 uses `vi` as its language code
 
 # \[ phonemes \]
-> based on chezzie-chan's vietnamese vccv reclist
->
 > examples and non-vietnamese approximation have been referenced from wikipedia
 
 ## non vocal phonemes
@@ -83,6 +81,7 @@ uses `vi` as its language code
 | o   | O       | c**ô**, s**â**u          | st**o**ry                         |
 | ɔ   | o       | c**ó**, x**oo**ng        | **o**ff                           |
 | ə   | A       | **ă**n, m**a**y, c**a**u | c**u**t                           |
+| a   | a       | b**a**, m**a**i, c**a**o | l**a**ugh, m**a**d                |
 | a   | a       | b**a**, m**a**i, c**a**o | l**a**ugh, m**a**d                |
 
 # \[ terms of use \]

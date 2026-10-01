@@ -3,7 +3,7 @@
 > yes i did make a logo. god forbid a girl has hobbies!
 ---
 # \[ introduction \]
-**NOTE**: i am not fluent in vietnamese (sorry ancestors) so pronunciation may seem off. this corpus serves as a way to cover all the phonemes and shouldn't be used as the only vietnamese corpus in your dataset (if there are any that are public to begin with). additionally, this does not follow jani tran's vietnamese phoneme list, but follows a slightly edited version based on chezzie-chan's vietnamese vccv reclist. there may be some phonemes missing that would normally be found in other phoneme sets, an example being a lack of consonant end phonemes and the short vowel phoneme for `A` and `E`. if i get more free time to record more, i'll maybe add those missing phonemes but for now let's hope it isn't too scuffed! hopefully this can allow other public vietnamese corpuses to be created, i don't want to be the only one which in turn can fuck up a lot of pronunciations!
+**NOTE**: i am not fluent in vietnamese (sorry ancestors) so pronunciation may seem off. this corpus serves as a way to cover all the phonemes and shouldn't be used as the only vietnamese corpus in your dataset (if there are any that are public to begin with). let's hope it isn't too scuffed! hopefully this can allow other public vietnamese corpuses to be created, i don't want to be the only one which in turn can fuck up a lot of pronunciations!
 
 first diffsinger dataset heyyyy! i decided to make a pretty scuffed corpus for vietnamese support! i mainly recorded this since reclists are lowkey the best way to cover every phoneme under the bus but anygays! this is extremely scuffed but i hope this can be of help!
 
@@ -71,18 +71,19 @@ uses `vi` as its language code
 | w   | W       | ta**o**, triệ**u**, đa**u**  | ho**w**                |
 
 ## vowel phonemes
-| ipa | phoneme | example                  | non-viet. approximation           |
-| --- | :-----: | ------------------------ | --------------------------------- |
-| i   | i       | kh**i**, tu**y**         | s**ea**t                          |
-| ɨ   | U       | t**ư**                   | glass**e**s, т**ы**               |
-| u   | u       | r**u**, t**u**i          | r**u**le                          |
-| e   | E       | v**ề**, c**â**y          | d**a**y, s**ai**d (monophthongal) |
-| ɛ   | e       | x**e**                   | l**e**d                           |
-| o   | O       | c**ô**, s**â**u          | st**o**ry                         |
-| ɔ   | o       | c**ó**, x**oo**ng        | **o**ff                           |
-| ə   | A       | **ă**n, m**a**y, c**a**u | c**u**t                           |
-| a   | a       | b**a**, m**a**i, c**a**o | l**a**ugh, m**a**d                |
-| a   | a       | b**a**, m**a**i, c**a**o | l**a**ugh, m**a**d                |
+| ipa | phoneme | example                            | non-viet. approximation           |
+| --- | :-----: | ---------------------------------- | --------------------------------- |
+| a   | a       | b**a**, m**a**i, c**a**o           | l**a**ugh, m**a**d                |
+| ʌ   | ah      | **â**n                             | bal**a**nce                       |
+| ɤ   | er      | b**ơ**                             | b**oo**k                          |
+| e   | e       | v**ề**, c**â**y                    | d**a**y, s**ai**d (monophthongal) |
+| ɛ   | eh      | x**e**                             | l**e**d                           |
+| i   | i       | kh**i**, tu**y**                   | s**ea**t                          |
+| o   | o       | c**ô**, s**â**u                    | 노래 / n**o**rae                  |
+| ɔ   | ao      | c**ó**, x**oo**ng                  | **o**ff                           |
+| ɯ   | eu      | t**ư**                             | glass**e**s, т**ы**               |
+| u   | u       | r**u**, t**u**i                    | r**u**le                          |
+| ə   | ax      | y**ê**u, ư**ớ**c, ư**a**, u**ô**ng | l**a**ugh, m**a**d                |
 
 # \[ terms of use \]
 \- you **are allowed** to use this dataset for multispeaker training of **svs models**

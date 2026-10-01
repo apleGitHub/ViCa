@@ -61,16 +61,16 @@ uses `vi` as its language code
 ## final consonant phonemes
 | ipa | phoneme | example                   | non-viet. approximation           |
 | --- | :-----: | ------------------------- | --------------------------------- |
-| k̟   | CH      | kh**i**, tu**y**          | s**ea**t                          |
-| k   | K       | kh**i**, tu**y**          | s**ea**t                          |
+| k̟   | CH      | cá**ch**          | te**ch**nical                         |
+| k   | K       | á**c**, họ**c**  | pi**ck** |
 | ɲ   | NH      | bì**nh**                    | o**ni**on                |
 | ŋ   | NG      | trứ**ng**, chú**ng**            | lo**ng** |
 | e   | N       | ba**n**, mì**n**, bê**n**, bố**n**, bú**n** | pi**n**, he**n**, pe**n** |
 | m   | M       | thê**m**                  | l**e**d                           |
-| p̚   | P       | c**ô**, s**â**u           | st**o**ry                         |
-| t   | T       | c**ó**, x**oo**ng         | **o**ff                           |
+| p̚   | P       | tiế**p**           | clas**p**, but no audible release |
+| t   | T       | xuấ**t**, chí**t**, mộ**t**         | pi**t**, hi**t**, cu**t** |
 | j   | Y       | cá**i**, ta**y**, tu**i** | b**o**y                           |
-| w   | W       | b**a**, m**a**i, c**a**o  | l**a**ugh, m**a**d                |
+| w   | W       | ta**o**, triệ**u**, đa**u**  | ho**w**                |
 
 ## vowel phonemes
 | ipa | phoneme | example                  | non-viet. approximation           |

@@ -79,7 +79,7 @@ uses `vi` as its language code
 | e   | e       | v**ề**, c**â**y                    | d**a**y, s**ai**d (monophthongal) |
 | ɛ   | eh      | x**e**                             | l**e**d                           |
 | i   | i       | kh**i**, tu**y**                   | s**ea**t                          |
-| o   | o       | c**ô**, s**â**u                    | 노래 / n**o**rae                  |
+| o   | o       | c**ô**, s**â**u                    | 노래 / n**o**rae, st**o**ry       |
 | ɔ   | ao      | c**ó**, x**oo**ng                  | **o**ff                           |
 | ɯ   | eu      | t**ư**                             | glass**e**s, т**ы**               |
 | u   | u       | r**u**, t**u**i                    | r**u**le                          |

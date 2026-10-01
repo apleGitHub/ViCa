@@ -57,6 +57,8 @@ uses `vi` as its language code
 | w   | w       | **o**anh, q**u**ốc | q**u**ick                             |
 
 ## final consonant phonemes
+> note: all of the non-nasal and non-semivowel ending phonemes will have no release
+
 | ipa | phoneme | example                                     | non-viet. approximation           |
 | --- | :-----: | ------------------------------------------- | --------------------------------- |
 | k̟   | CH      | cá**ch**                                    | te**ch**nical                     |
@@ -71,6 +73,8 @@ uses `vi` as its language code
 | w   | W       | ta**o**, triệ**u**, đa**u**                 | ho**w**                           |
 
 ## vowel phonemes
+> note: `ax` is mainly used for diphthongs, it should only be next to `i`, `eu`, and `u`
+
 | ipa | phoneme | example                            | non-viet. approximation           |
 | --- | :-----: | ---------------------------------- | --------------------------------- |
 | a   | a       | b**a**, m**a**i, c**a**o           | l**a**ugh, m**a**d                |

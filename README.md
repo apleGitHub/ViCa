@@ -61,15 +61,16 @@ uses `vi` as its language code
 ## final consonant phonemes
 | ipa | phoneme | example                   | non-viet. approximation           |
 | --- | :-----: | ------------------------- | --------------------------------- |
-| i   | CH      | kh**i**, tu**y**          | s**ea**t                          |
-| ɨ   | NH      | t**ư**                    | glass**e**s, т**ы**               |
-| u   | NG      | r**u**, t**u**i           | r**u**le                          |
+| k̟   | CH      | kh**i**, tu**y**          | s**ea**t                          |
+| k   | K       | kh**i**, tu**y**          | s**ea**t                          |
+| ɲ   | NH      | t**ư**                    | glass**e**s, т**ы**               |
+| ŋ   | NG      | r**u**, t**u**i           | r**u**le                          |
 | e   | N       | v**ề**, c**â**y           | d**a**y, s**ai**d (monophthongal) |
-| ɛ   | M       | x**e**                    | l**e**d                           |
-| o   | P       | c**ô**, s**â**u           | st**o**ry                         |
-| ɔ   | T       | c**ó**, x**oo**ng         | **o**ff                           |
+| m   | M       | thê**m**                  | l**e**d                           |
+| p̚   | P       | c**ô**, s**â**u           | st**o**ry                         |
+| t   | T       | c**ó**, x**oo**ng         | **o**ff                           |
 | j   | Y       | cá**i**, ta**y**, tu**i** | b**o**y                           |
-| a   | W       | b**a**, m**a**i, c**a**o  | l**a**ugh, m**a**d                |
+| w   | W       | b**a**, m**a**i, c**a**o  | l**a**ugh, m**a**d                |
 
 ## vowel phonemes
 | ipa | phoneme | example                  | non-viet. approximation           |

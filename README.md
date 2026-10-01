@@ -63,9 +63,9 @@ uses `vi` as its language code
 | --- | :-----: | ------------------------- | --------------------------------- |
 | k̟   | CH      | kh**i**, tu**y**          | s**ea**t                          |
 | k   | K       | kh**i**, tu**y**          | s**ea**t                          |
-| ɲ   | NH      | t**ư**                    | glass**e**s, т**ы**               |
-| ŋ   | NG      | r**u**, t**u**i           | r**u**le                          |
-| e   | N       | v**ề**, c**â**y           | d**a**y, s**ai**d (monophthongal) |
+| ɲ   | NH      | bì**nh**                    | o**ni**on                |
+| ŋ   | NG      | trứ**ng**, chú**ng**            | lo**ng** |
+| e   | N       | ba**n**, mì**n**, bê**n**, bố**n**, bú**n** | pi**n**, he**n**, pe**n** |
 | m   | M       | thê**m**                  | l**e**d                           |
 | p̚   | P       | c**ô**, s**â**u           | st**o**ry                         |
 | t   | T       | c**ó**, x**oo**ng         | **o**ff                           |

@@ -65,7 +65,7 @@ uses `vi` as its language code
 | k   | K       | á**c**, họ**c**                             | pi**ck**                          |
 | ɲ   | NH      | bì**nh**                                    | o**ni**on                         |
 | ŋ   | NG      | trứ**ng**, chú**ng**                        | lo**ng**                          |
-| e   | N       | ba**n**, mì**n**, bê**n**, bố**n**, bú**n** | pi**n**, he**n**, pe**n**         |
+| n   | N       | ba**n**, mì**n**, bê**n**, bố**n**, bú**n** | pi**n**, he**n**, pe**n**         |
 | m   | M       | thê**m**                                    | po**m**                           |
 | p̚   | P       | tiế**p**                                    | clas**p**, but no audible release |
 | t   | T       | xuấ**t**, chí**t**, mộ**t**                 | pi**t**, hi**t**, cu**t**         |

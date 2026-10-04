@@ -78,8 +78,7 @@ uses `vi` as its language code
 | ipa | phoneme | example                            | non-viet. approximation           |
 | --- | :-----: | ---------------------------------- | --------------------------------- |
 | a   | a       | b**a**, m**a**i, c**a**o           | l**a**ugh, m**a**d                |
-| ʌ   | ah      | **â**n                             | bal**a**nce                       |
-| ɤ   | er      | b**ơ**                             | b**oo**k                          |
+| ʌ   | ah      | **â**n, b**ơ**                     | bal**a**nce, b**oo**k             |
 | e   | e       | v**ề**, c**â**y                    | d**a**y, s**ai**d (monophthongal) |
 | ɛ   | eh      | x**e**                             | l**e**d                           |
 | i   | i       | kh**i**, tu**y**                   | s**ea**t                          |

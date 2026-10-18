@@ -26,8 +26,8 @@ uses `vi` as its language code
 ## non vocal phonemes
 | use           | phoneme | description  |
 | ------------- | :-----: | ------------ |
-| silent stops  | pau     | pure silence |
-| breaths       | br      | breaths      |
+| silent stops  | SP      | pure silence |
+| breaths       | AP      | breaths      |
 | end breaths   | exh     | end breaths  |
 | glottal stops | Q       | abrupt stops |
 | vocal fry     | vf      | vocal fry    |

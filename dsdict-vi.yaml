@@ -62,13 +62,18 @@ entries:
 # Global
 - {grapheme: SP, phonemes: [SP]}
 - {grapheme: sp, phonemes: [SP]}
+- {grapheme: Sp, phonemes: [SP]}
 - {grapheme: pau, phonemes: [SP]}
+- {grapheme: Pau, phonemes: [SP]}
 - {grapheme: sil, phonemes: [SP]}
+- {grapheme: Sil, phonemes: [SP]}
 - {grapheme: R, phonemes: [SP]}
 - {grapheme: '-', phonemes: [SP]}
 - {grapheme: AP, phonemes: [AP]}
 - {grapheme: ap, phonemes: [AP]}
+- {grapheme: Ap, phonemes: [AP]}
 - {grapheme: br, phonemes: [AP]}
+- {grapheme: Br, phonemes: [AP]}
 - {grapheme: 息, phonemes: [AP]}
 - {grapheme: axh, phonemes: [AP]}
 - {grapheme: exh, phonemes: [exh]}
@@ -77,9 +82,11 @@ entries:
 - {grapheme: Q, phonemes: [Q]}
 - {grapheme: gs, phonemes: [Q]}
 - {grapheme: GS, phonemes: [Q]}
+- {grapheme: Gs, phonemes: [Q]}
 - {grapheme: "’", phonemes: [vf]}
 - {grapheme: ・, phonemes: [vf]}
 - {grapheme: vf, phonemes: [vf]}
+- {grapheme: Edge, phonemes: [vf]}
 
 # Vietnamese (vi)
 - {grapheme: a, phonemes: [Q, vi/a]}

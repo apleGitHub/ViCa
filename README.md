@@ -8,9 +8,9 @@
 first diffsinger dataset heyyyy! i decided to make a pretty scuffed corpus for vietnamese support! i mainly recorded this since reclists are lowkey the best way to cover every phoneme under the bus but anygays! this is extremely scuffed but i hope this can be of help!
 
 # \[ dataset info \]
-461 .wav files
+477 .wav files
 
-26 minutes and 42 seconds
+28 minutes and 7 seconds
 
 denoised, dereverbed, and normalized
 
@@ -27,7 +27,10 @@ uses `vi` as its language code
 | use           | phoneme | description  |
 | ------------- | :-----: | ------------ |
 | silent stops  | pau     | pure silence |
+| breaths       | br      | breaths      |
+| end breaths   | exh     | end breaths  |
 | glottal stops | Q       | abrupt stops |
+| vocal fry     | vf      | vocal fry    |
 
 ## initial consonant phonemes
 | ipa | phoneme | example            | non-viet. approximation               |

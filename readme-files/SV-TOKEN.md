@@ -12,43 +12,43 @@
 ## initial consonant phonemes
 | ipa | phoneme | system token |
 | --- | :-----: | :----------: |
-| m   | m       | **m**ai            |
-| n   | n       | **n**am            |
-| ɲ   | nh      | **nh**à            |
-| ŋ   | ng      | **ng**âm, **ng**he |
-| p   | p       | **p**in            |
-| t   | t       | **t**ây            |
-| tʰ  | th      | **th**ầy           |
-| ʈʂ  | tr      | **tr**a            |
-| c   | ch      | **ch**è            |
-| k   | k       | **c**ô, **k**em    |
-| ɓ   | b       | **b**a             |
-| ɗ   | d       | **đ**i             |
-| f   | ph      | **ph**ở            |
-| s   | x       | **x**a             |
-| ʂ   | s       | **s**áu            |
-| x   | kh      | **kh**ô            |
-| h   | h       | **h**àng           |
-| v   | v       | **v**ề             |
-| z/ʐ | z       | **d**a, **d**anh   |
-| ɣ   | g       | **g**a, **gh**ế    |
-| l   | l       | **l**à             |
-| j   | y       | **gi**à, **gi**ết  |
-| w   | w       | **o**anh, q**u**ốc |
+| m   | m       |  |
+| n   | n       |  |
+| ɲ   | nh      |  |
+| ŋ   | ng      |  |
+| p   | p       |  |
+| t   | t       |  |
+| tʰ  | th      |  |
+| ʈʂ  | tr      |  |
+| c   | ch      |  |
+| k   | k       |  |
+| ɓ   | b       |  |
+| ɗ   | d       |  |
+| f   | ph      |  |
+| s   | x       |  |
+| ʂ   | s       |  |
+| x   | kh      |  |
+| h   | h       |  |
+| v   | v       |  |
+| z/ʐ | z       |  |
+| ɣ   | g       |  |
+| l   | l       |  |
+| j   | y       |  |
+| w   | w       |  |
 
 ## final consonant phonemes
 | ipa | phoneme | system token |
 | --- | :-----: | :----------: |
-| k̟   | CH      | cá**ch**                                    |
-| k   | K       | á**c**, họ**c**                             |
-| ɲ   | NH      | bì**nh**                                    |
-| ŋ   | NG      | trứ**ng**, chú**ng**                        |
-| n   | N       | ba**n**, mì**n**, bê**n**, bố**n**, bú**n** |
-| m   | M       | thê**m**                                    |
-| p̚   | P       | tiế**p**                                    |
-| t   | T       | xuấ**t**, chí**t**, mộ**t**                 |
-| j   | Y       | cá**i**, ta**y**, tu**i**                   |
-| w   | W       | ta**o**, triệ**u**, đa**u**                 |
+| k̟   | CH      |  |
+| k   | K       |  |
+| ɲ   | NH      |  |
+| ŋ   | NG      |  |
+| n   | N       | :n |
+| m   | M       |  |
+| p̚   | P       |  |
+| t   | T       |  |
+| j   | Y       |  |
+| w   | W       |  |
 
 ## vowel phonemes
 | ipa  | phoneme | system token |

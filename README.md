@@ -33,8 +33,6 @@ uses `vi` as its language code
 | vocal fry     | vf      | vocal fry    |
 
 ## initial consonant phonemes
-> note: `s` could be substituted with `x` if needed, especially if you are used to the northern dialect. however, replace it in the dictionary
-
 | ipa | phoneme | example            | non-viet. approximation               |
 | --- | :-----: | ------------------ | ------------------------------------- |
 | m   | m       | **m**ai            | **m**y                                |

@@ -2,13 +2,13 @@
 > examples and non-vietnamese approximation have been referenced from wikipedia
 
 ## non vocal phonemes
-| use           | phoneme | description  |
+| use           | phoneme | system token |
 | ------------- | :-----: | ------------ |
-| silent stops  | SP      | pure silence |
-| breaths       | AP      | breaths      |
-| end breaths   | exh     | end breaths  |
-| glottal stops | Q       | abrupt stops |
-| vocal fry     | vf      | vocal fry    |
+| silent stops  | SP      | sil          |
+| breaths       | AP      | br           |
+| end breaths   | exh     | x            |
+| glottal stops | Q       | cl           |
+| vocal fry     | vf      | cl           |
 
 ## initial consonant phonemes
 | ipa | phoneme | example            | non-viet. approximation               |

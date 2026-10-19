@@ -10,8 +10,8 @@
 | vocal fry     | vf      | cl           |
 
 ## initial consonant phonemes
-| ipa | phoneme | example            |
-| --- | :-----: | :----------------: |
+| ipa | phoneme | system token |
+| --- | :-----: | :----------: |
 | m   | m       | **m**ai            |
 | n   | n       | **n**am            |
 | ɲ   | nh      | **nh**à            |
@@ -37,8 +37,8 @@
 | w   | w       | **o**anh, q**u**ốc |
 
 ## final consonant phonemes
-| ipa | phoneme | example                                     |
-| --- | :-----: | :-----------------------------------------: |
+| ipa | phoneme | system token |
+| --- | :-----: | :----------: |
 | k̟   | CH      | cá**ch**                                    |
 | k   | K       | á**c**, họ**c**                             |
 | ɲ   | NH      | bì**nh**                                    |
@@ -51,8 +51,8 @@
 | w   | W       | ta**o**, triệ**u**, đa**u**                 |
 
 ## vowel phonemes
-| ipa  | phoneme | example                            |
-| ---- | :-----: | :--------------------------------: |
+| ipa  | phoneme | system token |
+| ---- | :-----: | :----------: |
 | a    | a       | b**a**, m**a**i, c**a**o           |
 | ʌ, ɤ | ah      | **â**n, b**ơ**                     |
 | e    | e       | v**ề**, c**â**y                    |

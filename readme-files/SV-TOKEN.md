@@ -53,13 +53,13 @@
 ## vowel phonemes
 | ipa  | phoneme | system token |
 | ---- | :-----: | :----------: |
-| a    | a       | b**a**, m**a**i, c**a**o           |
-| ʌ, ɤ | ah      | **â**n, b**ơ**                     |
-| e    | e       | v**ề**, c**â**y                    |
-| ɛ    | eh      | x**e**                             |
-| i    | i       | kh**i**, tu**y**                   |
-| o    | o       | c**ô**, s**â**u                    |
-| ɔ    | ao      | c**ó**, x**oo**ng                  |
-| ɯ    | eu      | t**ư**                             |
-| u    | u       | r**u**, t**u**i                    |
-| ə    | ax      | y**ê**u, ư**ớ**c, ư**a**, u**ô**ng |
+| a    | a       | a |
+| ʌ, ɤ | ah      | A |
+| e    | e       |  |
+| ɛ    | eh      | e |
+| i    | i       | i |
+| o    | o       | o |
+| ɔ    | ao      | ARP_ao |
+| ɯ    | eu      | U |
+| u    | u       | u |
+| ə    | ax      | ARP_ax |

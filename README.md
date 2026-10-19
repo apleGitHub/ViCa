@@ -78,18 +78,18 @@ uses `vi` as its language code
 ## vowel phonemes
 > note: `ax` is mainly used for diphthongs, it should only be next to `i`, `eu`, and `u`
 
-| ipa | phoneme | example                            | non-viet. approximation           |
-| --- | :-----: | ---------------------------------- | --------------------------------- |
-| a   | a       | b**a**, m**a**i, c**a**o           | l**a**ugh, m**a**d                |
-| ʌ   | ah      | **â**n, b**ơ**                     | bal**a**nce, b**oo**k             |
-| e   | e       | v**ề**, c**â**y                    | d**a**y, s**ai**d (monophthongal) |
-| ɛ   | eh      | x**e**                             | l**e**d                           |
-| i   | i       | kh**i**, tu**y**                   | s**ea**t                          |
-| o   | o       | c**ô**, s**â**u                    | 노래 / n**o**rae, st**o**ry       |
-| ɔ   | ao      | c**ó**, x**oo**ng                  | **o**ff                           |
-| ɯ   | eu      | t**ư**                             | glass**e**s, т**ы**               |
-| u   | u       | r**u**, t**u**i                    | r**u**le                          |
-| ə   | ax      | y**ê**u, ư**ớ**c, ư**a**, u**ô**ng | rime for ê, ớ, a, and ô           |
+| ipa  | phoneme | example                            | non-viet. approximation           |
+| ---- | :-----: | ---------------------------------- | --------------------------------- |
+| a    | a       | b**a**, m**a**i, c**a**o           | l**a**ugh, m**a**d                |
+| ʌ, ɤ | ah      | **â**n, b**ơ**                     | bal**a**nce, b**oo**k             |
+| e    | e       | v**ề**, c**â**y                    | d**a**y, s**ai**d (monophthongal) |
+| ɛ    | eh      | x**e**                             | l**e**d                           |
+| i    | i       | kh**i**, tu**y**                   | s**ea**t                          |
+| o    | o       | c**ô**, s**â**u                    | 노래 / n**o**rae, st**o**ry       |
+| ɔ    | ao      | c**ó**, x**oo**ng                  | **o**ff                           |
+| ɯ    | eu      | t**ư**                             | glass**e**s, т**ы**               |
+| u    | u       | r**u**, t**u**i                    | r**u**le                          |
+| ə    | ax      | y**ê**u, ư**ớ**c, ư**a**, u**ô**ng | rime for ê, ớ, a, and ô           |
 
 # \[ terms of use \]
 \- you **are allowed** to use this dataset for multispeaker training of **svs models**

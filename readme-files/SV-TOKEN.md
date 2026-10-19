@@ -39,16 +39,16 @@
 ## final consonant phonemes
 | ipa | phoneme | system token |
 | --- | :-----: | :----------: |
-| k̟   | CH      |  |
-| k   | K       |  |
+| k̟   | CH      | :k_ |
+| k   | K       | :k_ |
 | ɲ   | NH      |  |
-| ŋ   | NG      |  |
+| ŋ   | NG      | N |
 | n   | N       | :n |
-| m   | M       |  |
-| p̚   | P       |  |
-| t   | T       |  |
-| j   | Y       |  |
-| w   | W       |  |
+| m   | M       | :m |
+| p̚   | P       | :p_ |
+| t   | T       | :t_ |
+| j   | Y       | :\i |
+| w   | W       | :u |
 
 ## vowel phonemes
 | ipa  | phoneme | system token |

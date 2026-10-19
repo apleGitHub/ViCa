@@ -21,7 +21,7 @@ labeled in .lab format
 uses `vi` as its language code
 
 # \[ phonemes \]
-> examples and non-vietnamese approximation have been referenced from wikipedia
+> examples and non-vietnamese approximation have been referenced from wikipedia. most of the phonemes are based off of the central dialect, except i didn't include r lol.
 
 ## non vocal phonemes
 | use           | phoneme | description  |

@@ -20,6 +20,18 @@ labeled in .lab format
 
 uses `vi` as its language code
 
+# \[ dictionary \]
+oh lord
+
+based off of jani tran's dictionary
+
+uses mostly the central dialect
+
+# \[ phonemizer \]
+not made yet tee hee
+
+use lotte's phonemizer: [[link]](https://github.com/lottev1991/DiffSingerVietTempPhonemizer)
+
 # \[ phonemes \]
 > examples and non-vietnamese approximation have been referenced from wikipedia. most of the phonemes are based off of the central dialect, except i didn't include r lol.
 

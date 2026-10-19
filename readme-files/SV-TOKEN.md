@@ -12,29 +12,29 @@
 ## initial consonant phonemes
 | ipa | phoneme | system token |
 | --- | :-----: | :----------: |
-| m   | m       |  |
-| n   | n       |  |
-| ɲ   | nh      |  |
+| m   | m       | m |
+| n   | n       | n |
+| ɲ   | nh      | ROM_ny |
 | ŋ   | ng      |  |
-| p   | p       |  |
-| t   | t       |  |
-| tʰ  | th      |  |
-| ʈʂ  | tr      |  |
-| c   | ch      |  |
-| k   | k       |  |
-| ɓ   | b       |  |
-| ɗ   | d       |  |
-| f   | ph      |  |
-| s   | x       |  |
-| ʂ   | s       |  |
+| p   | p       | p |
+| t   | t       | t |
+| tʰ  | th      | th |
+| ʈʂ  | tr      | ts` |
+| c   | ch      | ts\h |
+| k   | k       | k |
+| ɓ   | b       | b |
+| ɗ   | d       | d |
+| f   | ph      | f |
+| s   | x       | s |
+| ʂ   | s       | s' |
 | x   | kh      |  |
-| h   | h       |  |
-| v   | v       |  |
-| z/ʐ | z       |  |
-| ɣ   | g       |  |
-| l   | l       |  |
-| j   | y       |  |
-| w   | w       |  |
+| h   | h       | x |
+| v   | v       | ARP_v |
+| z/ʐ | z       | ts |
+| ɣ   | g       | g |
+| l   | l       | l |
+| j   | y       | j |
+| w   | w       | w |
 
 ## final consonant phonemes
 | ipa | phoneme | system token |

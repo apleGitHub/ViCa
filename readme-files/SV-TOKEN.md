@@ -1,5 +1,4 @@
 # \[ phonemes \]
-> examples and non-vietnamese approximation have been referenced from wikipedia
 
 ## non vocal phonemes
 | use           | phoneme | system token |

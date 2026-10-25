@@ -33,7 +33,7 @@ not made yet tee hee
 use lotte's phonemizer: [[link]](https://github.com/lottev1991/DiffSingerVietTempPhonemizer)
 
 # \[ phonemes \]
-> examples and non-vietnamese approximation have been referenced from wikipedia. most of the phonemes are based off of the central dialect, except i didn't include r lol.
+> examples and non-vietnamese approximation have been referenced from wikipedia. most of the non-viet. approximation are in english, but some sounds from different languages have been included as well. most of the phonemes are based off of the central dialect, except i didn't include r lol.
 
 ## non vocal phonemes
 | use           | phoneme | description  |
@@ -45,6 +45,9 @@ use lotte's phonemizer: [[link]](https://github.com/lottev1991/DiffSingerVietTem
 | vocal fry     | vf      | vocal fry    |
 
 ## initial consonant phonemes
+> señorita and amigo are spanish /
+> gnocchi is italian
+
 | ipa | phoneme | example            | non-viet. approximation               |
 | --- | :-----: | ------------------ | ------------------------------------- |
 | m   | m       | **m**ai            | **m**y                                |

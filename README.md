@@ -89,6 +89,10 @@ use lotte's phonemizer: [[link]](https://github.com/lottev1991/DiffSingerVietTem
 
 ## vowel phonemes
 > note: `ax` is mainly used for diphthongs, it should only be next to `i`, `eu`, and `u`
+> 노래, 음식, and 눈 are korean
+> ты is russian
+> 空気 is japanese
+> 土 is mandarin chinese
 
 | ipa  | phoneme | example                            | non-viet. approximation                     |
 | ---- | :-----: | ---------------------------------- | ------------------------------------------- |

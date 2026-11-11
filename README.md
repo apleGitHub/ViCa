@@ -33,7 +33,9 @@ not made yet tee hee
 use lotte's phonemizer: [[link]](https://github.com/lottev1991/DiffSingerVietTempPhonemizer)
 
 # \[ phonemes \]
-> examples and non-vietnamese approximation have been referenced from wikipedia. most of the non-viet. approximation are in english, but some sounds from different languages have been included as well. most of the phonemes are based off of the central dialect, except i didn't include r lol.
+> **UPDATE**: i have included all missing phonemes (yes including r) since i one day plan to update the dataset to support all dialects. i got no time to record, though, so i am just leaving this out here in case anyone wants to record using this phoneme list. also, i included the x-sampa (not vocaloid) equivalent for every sound as well
+>
+>examples and non-vietnamese approximation have been referenced from wikipedia. most of the non-viet. approximation are in english, but some sounds from different languages have been included as well. most of the phonemes are based off of the central dialect
 
 ## non vocal phonemes
 | use           | phoneme | description  |
@@ -46,7 +48,9 @@ use lotte's phonemizer: [[link]](https://github.com/lottev1991/DiffSingerVietTem
 
 ## initial consonant phonemes
 > señorita and amigo are spanish /
-> gnocchi is italian
+> gnocchi is italian /
+> жена is russian /
+> 肉 is mandarin chinese
 
 | ipa | phoneme | example            | non-viet. approximation               |
 | --- | :-----: | ------------------ | ------------------------------------- |
@@ -68,10 +72,11 @@ use lotte's phonemizer: [[link]](https://github.com/lottev1991/DiffSingerVietTem
 | x   | kh      | **kh**ô            | lo**ch**                              |
 | h   | h       | **h**àng           | **h**igh                              |
 | v   | v       | **v**ề             | **v**ictory                           |
-| z/ʐ | z       | **d**a, **d**anh   | **z**ero                              |
+| z   | z       | **d**a, **d**anh   | **z**ero                              |
 | ɣ   | g       | **g**a, **gh**ế    | ami**g**o                             |
 | l   | l       | **l**à             | **l**ow                               |
 | j   | y       | **gi**à, **gi**ết  | **y**es                               |
+| r   | r       | **r**a, **r**ồi    | **ж**ена / **ž**ená, 肉 / **r**òu     |
 | w   | w       | **o**anh, q**u**ốc | q**u**ick                             |
 
 ## final consonant phonemes
@@ -96,12 +101,13 @@ use lotte's phonemizer: [[link]](https://github.com/lottev1991/DiffSingerVietTem
 > 노래, 음식, and 눈 are korean / 
 > ты is russian / 
 > 空気 is japanese / 
-> 土 is mandarin chinese
+> 土 and 餓 are mandarin chinese
 
 | ipa  | phoneme | example                            | non-viet. approximation                     |
 | ---- | :-----: | ---------------------------------- | ------------------------------------------- |
 | a    | a       | b**a**, m**a**i, c**a**o           | l**a**ugh, m**a**d                          |
-| ʌ, ɤ | ah      | **â**n, b**ơ**                     | bal**a**nce, b**oo**k                       |
+| ʌ    | ah      | **â**n                             | g**u**t                                     |
+| ɤ    | ??      | b**ơ**                             | 餓 / **è**                                  |
 | e    | e       | v**ề**, c**â**y                    | d**a**y, s**ai**d (monophthongal)           |
 | ɛ    | eh      | x**e**                             | l**e**d                                     |
 | i    | i       | kh**i**, tu**y**                   | s**ea**t                                    |

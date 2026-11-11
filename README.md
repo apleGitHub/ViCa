@@ -61,8 +61,8 @@ use lotte's phonemizer: [[link]](https://github.com/lottev1991/DiffSingerVietTem
 | p   | p       | **p**in            | s**p**ort                             |
 | t   | t       | **t**ây            | s**t**op                              |
 | tʰ  | th      | **th**ầy           | **t**op, **t**as**te**                |
-| ʈ͡ʂ  | tr      | **tr**a            | **tr**end, but with tongue curled     |
-| t͡ɕ  | ch      | **ch**è            | **ch**ange                            |
+| tʂ  | tr      | **tr**a            | **tr**end, but with tongue curled     |
+| tɕ  | ch      | **ch**è            | **ch**ange                            |
 | k   | k       | **c**ô, **k**em    | s**c**an                              |
 | ɓ   | b       | **b**a             | **b**ee with a gulp                   |
 | ɗ   | d       | **đ**i             | **d**ay with a gulp                   |

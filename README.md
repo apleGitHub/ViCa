@@ -76,7 +76,7 @@ use lotte's phonemizer: [[link]](https://github.com/lottev1991/DiffSingerVietTem
 | ɣ   | g       | **g**a, **gh**ế    | ami**g**o                             |
 | l   | l       | **l**à             | **l**ow                               |
 | j   | y       | **gi**à, **gi**ết  | **y**es                               |
-| r   | r       | **r**a, **r**ồi    | **ж**ена / **ž**ená, 肉 / **r**òu     |
+| ʐ   | r       | **r**a, **r**ồi    | **ж**ена / **ž**ená, 肉 / **r**òu     |
 | w   | w       | **o**anh, q**u**ốc | q**u**ick                             |
 
 ## final consonant phonemes

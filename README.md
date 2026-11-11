@@ -101,11 +101,11 @@ use lotte's phonemizer: [[link]](https://github.com/lottev1991/DiffSingerVietTem
 > 노래, 음식, and 눈 are korean / 
 > ты is russian / 
 > 空気 is japanese / 
-> 土 and 餓 are mandarin chinese
+> 塌, 餓, and 土 are mandarin chinese
 
 | ipa  | phoneme | example                            | non-viet. approximation                     |
 | ---- | :-----: | ---------------------------------- | ------------------------------------------- |
-| a    | a       | b**a**, m**a**i, c**a**o           | l**a**ugh, m**a**d                          |
+| a    | a       | b**a**, m**a**i, c**a**o           | 塌 / t**ā**                                 |
 | ʌ    | ah      | **â**n                             | g**u**t                                     |
 | ɤ    | oe      | b**ơ**                             | 餓 / **è**                                  |
 | e    | e       | v**ề**, c**â**y                    | d**a**y, s**ai**d (monophthongal)           |

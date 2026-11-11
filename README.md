@@ -107,7 +107,7 @@ use lotte's phonemizer: [[link]](https://github.com/lottev1991/DiffSingerVietTem
 | ---- | :-----: | ---------------------------------- | ------------------------------------------- |
 | a    | a       | b**a**, m**a**i, c**a**o           | l**a**ugh, m**a**d                          |
 | ʌ    | ah      | **â**n                             | g**u**t                                     |
-| ɤ    | ??      | b**ơ**                             | 餓 / **è**                                  |
+| ɤ    | oe      | b**ơ**                             | 餓 / **è**                                  |
 | e    | e       | v**ề**, c**â**y                    | d**a**y, s**ai**d (monophthongal)           |
 | ɛ    | eh      | x**e**                             | l**e**d                                     |
 | i    | i       | kh**i**, tu**y**                   | s**ea**t                                    |

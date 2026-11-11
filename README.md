@@ -33,7 +33,7 @@ not made yet tee hee
 use lotte's phonemizer: [[link]](https://github.com/lottev1991/DiffSingerVietTempPhonemizer)
 
 # \[ phonemes \]
-> **UPDATE**: i have included all missing phonemes (yes including r) since i one day plan to update the dataset to support all dialects. i got no time to record, though, so i am just leaving this out here in case anyone wants to record using this phoneme list. also, i included the x-sampa (not vocaloid) equivalent for every sound as well
+> **UPDATE**: i have included all missing phonemes (yes including r) since i one day plan to update the dataset to support all dialects. i got no time to record, though, so i am just leaving this out here in case anyone wants to record using this phoneme list. also, x-sampa will be included in the chart later as well, i am not home right now so editing a github readme will be difficult
 >
 >examples and non-vietnamese approximation have been referenced from wikipedia. most of the non-viet. approximation are in english, but some sounds from different languages have been included as well. most of the phonemes are based off of the central dialect
 

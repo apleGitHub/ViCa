@@ -84,14 +84,14 @@ use lotte's phonemizer: [[link]](https://github.com/lottev1991/DiffSingerVietTem
 
 | ipa | phoneme | example                                     | non-viet. approximation           |
 | --- | :-----: | ------------------------------------------- | --------------------------------- |
-| k̟   | CH      | cá**ch**                                    | te**ch**nical                     |
-| k   | K       | á**c**, họ**c**                             | pi**ck**                          |
+| k̟̚   | CH      | cá**ch**                                    | te**ch**nical                     |
+| k̚   | K       | á**c**, họ**c**                             | pi**ck**                          |
 | ɲ   | NH      | bì**nh**                                    | o**ni**on                         |
 | ŋ   | NG      | trứ**ng**, chú**ng**                        | lo**ng**                          |
 | n   | N       | ba**n**, mì**n**, bê**n**, bố**n**, bú**n** | pi**n**, he**n**, pe**n**         |
 | m   | M       | thê**m**                                    | po**m**                           |
 | p̚   | P       | tiế**p**                                    | clas**p**, but no audible release |
-| t   | T       | xuấ**t**, chí**t**, mộ**t**                 | pi**t**, hi**t**, cu**t**         |
+| t̚   | T       | xuấ**t**, chí**t**, mộ**t**                 | pi**t**, hi**t**, cu**t**         |
 | j   | Y       | cá**i**, ta**y**, tu**i**                   | bo**y**                           |
 | w   | W       | ta**o**, triệ**u**, đa**u**                 | ho**w**                           |
 
